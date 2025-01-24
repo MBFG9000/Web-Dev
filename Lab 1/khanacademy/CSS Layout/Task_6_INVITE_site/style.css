@@ -1,0 +1,109 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    height: 100vh;
+    background: url(bg-image.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+header{
+    position: fixed;
+    top:0;
+    left:0;
+    right: 0;
+    background: rgb(230, 230, 255);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 8%;
+    box-shadow: 0 5px 10px;
+}
+#logo{
+    font-size: 30px;
+    font-weight: 900;
+    color: black;
+    transition: .3s;
+}
+#logo:hover{
+    transform: scale(1.2);
+}
+header nav ul li{
+    position: relative;
+    float:left
+}
+header nav ul li a{
+    padding: 15px;
+    color: black;
+    font-size: 20px;
+    display: block;
+}
+header nav ul li a:hover{
+    background: #000;
+    color: aliceblue;
+}
+
+nav ul li ul{
+    position: absolute;
+    left: 0;
+    width: 180px;
+    background: white;
+    display: none;
+}
+
+nav ul li ul li {
+    width: 100%;
+    border: 1px solid rgba(0,0,0,.1);
+}
+
+nav ul li:hover > ul{
+    display: initial;
+}
+
+main{
+    background-color: aliceblue;
+    width: 96vw;
+    height: 92%;
+    margin: auto;
+    margin-top: 7vh;
+    border-radius: 0.5%;
+}
+main img{
+    float: left;
+    max-width: 100%;
+    height: auto;
+    width: 500px;
+    margin: 1%;
+}
+
+main p{
+    padding-top: 1%;    
+    text-indent: 1%;
+    font-size: 30px;
+}
+main h1{
+    padding-top: 1%;
+}
+main div{
+    background-color: #000;
+    height: 36%;
+    width: 100%;
+    clear: both;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+main div img{
+    height: 100%;
+    width: 30%;
+    margin: 1%;
+    padding: 0;
+}

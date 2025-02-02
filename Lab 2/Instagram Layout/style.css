@@ -1,0 +1,196 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+:root {
+  --border-color: rgb(219, 219, 219);
+}
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  color: rgb(255, 255, 255);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+div {
+  display: block;
+}
+main {
+  display: flex;
+  flex-grow: 1;
+}
+.main-content {
+  background-color: rgb(255, 255, 255);
+  margin: 32px auto;
+  display: flex;
+  justify-content: center;
+  max-width: 935px;
+  flex-grow: 1;
+}
+.slide-container {
+  height: 618px;
+  flex-basis: 454px;
+}
+.slide-content {
+  margin: 26px 0 0 155px;
+  position: relative;
+}
+
+.slide-content img {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.slide-content img.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+.form-container {
+  flex-grow: 1;
+  max-width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 618px;
+  margin-left: 30px;
+}
+
+.box {
+  border: 1px solid var(--border-color);
+  background-color: rgb(255, 255, 255);
+  border-radius: 3px;
+}
+.form-content {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.form-content .logo {
+  text-align: center;
+  height: 51px;
+  width: 175px;
+  margin: 22px auto 12px;
+}
+
+.form-content .logo img {
+  max-width: 100%;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  vertical-align: baseline;
+  margin-top: 24px;
+  align-items: center;
+}
+.username input {
+  border: 1px solid var(--border-color);
+  width: 240px;
+  padding: 10px 6px;
+  border-radius: 1px;
+  font-size: 11px;
+}
+.password {
+  margin-top: 10px;
+}
+.password input {
+  border: 1px solid var(--border-color);
+  width: 240px;
+  padding: 10px 6px;
+  border-radius: 1px;
+  font-size: 11px;
+}
+.log-in-button {
+  padding: 10px;
+}
+.log-in-button button {
+  background-color: rgb(0, 149, 246);
+  border: none;
+  border-radius: 8px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 14px;
+  padding: 10px 100px;
+  font-weight: 900;
+}
+
+.or {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.or .line {
+  border: 1px solid rgb(219, 219, 219);
+  width: 100px;
+  height: 1px;
+  margin-top: 9px;
+}
+.or .or-text {
+  padding: 0px 10px;
+  color: rgb(159, 159, 159);
+  vertical-align: text-top;
+}
+.facebook-log svg {
+  vertical-align: middle;
+  color: rgb(0, 149, 246);
+  padding-top: 1px;
+}
+.facebook-log:hover {
+  cursor: pointer;
+}
+.facebook-log {
+  padding: 10px 40px;
+  background-color: transparent;
+  border: 0px;
+  vertical-align: middle;
+  color: rgb(0, 149, 246);
+}
+
+.forgot-password {
+  text-align: center;
+  font-size: 14px;
+  color: blue;
+  padding-bottom: 10px;
+}
+
+footer {
+  background-color: white;
+  color: #808080;
+  padding: 20px;
+  text-align: center;
+}
+
+footer .footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+footer .footer-links {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 15px;
+}
+
+footer .footer-links li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+footer .footer-links a {
+  text-decoration: none;
+  color: #808080;
+}
+
+footer .footer-links a:hover {
+  text-decoration: underline;
+}
+
+footer p {
+  font-size: 14px;
+  color: #808080;
+  margin-top: 10px;
+}

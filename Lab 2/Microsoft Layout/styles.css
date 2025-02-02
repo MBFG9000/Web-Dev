@@ -1,0 +1,333 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+    font-size: 15px;
+    display: block;
+    box-sizing: border-box;
+}
+
+.header-container {
+    font-size: 13px;
+    height: 54px;
+    background-color: #fff;
+    margin-bottom: 2px;
+    padding: 0 5%;
+    text-align: left;
+    box-sizing: inherit;
+    display: flex;
+    justify-content: space-between;
+}
+.logo a{
+    float:left;
+    padding: 16px 6px 16px 10px;
+    height: 100%;
+    margin-top: 1px;
+    width: 137px;
+    outline-offset: -2px;
+}
+
+.microsoft-logo img {
+    width: 108px;
+    margin-top: -3px;
+}
+.header-container nav {
+    height: 100%;
+    white-space: nowrap;
+    padding-left: 2px;
+    padding-right: 1px;
+    display: block;
+    text-align: left;
+}
+.header-container nav ul {
+    list-style: none;
+    display: block;
+}
+.header-container nav li {
+    display: inline-block;
+}
+
+.header-container nav li a{
+    color: #262626;
+    height: 48px;
+    border: 1px solid transparent;
+    display: inline-block; 
+    margin-top: 1px;
+    padding: 16px 8px 10px;
+    outline-offset: -2px;
+    text-decoration: none;
+    white-space: normal;
+    position: relative;
+}
+
+.header-right{
+    float: right;
+}
+.header-right button {
+    margin-right: 5px;
+    color: #262626;
+    border: 0px solid transparent;
+    padding: 16px 10px; 
+    vertical-align: top;
+    background-color: transparent;
+}
+.header-right  button.search {
+    padding: 7px 0px;
+    background-color: transparent; 
+}
+.header-right a {
+    margin-left: 5px;
+}
+.header-right a img {
+    padding-top: 6px;
+}
+.advertise {
+    background-color: #0067b8 ;
+    justify-content: center;
+    display: flex;
+    min-height: 3.625rem;
+    line-height: 1.5;
+}
+.advertise a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 1%;
+}
+.slider {
+    background-image: url(./images/slider-background.jpeg);
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+}
+.slider-paragraph {
+    background-color: white;
+    width: 30%;
+    margin: 10% 0% 10% 10%;
+    box-shadow: 5px 5px 5px black;
+    padding: 10px 20px;
+}
+.slider-paragraph h1 {
+    font-family: inherit;
+    font-weight: 600;
+    line-height: 1.2;
+    font-size: 1.8125rem;
+    margin-bottom: 1rem;
+    padding-top: 20px;
+}
+.slider-paragraph div {
+    margin-bottom: 1.5rem !important;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+
+}
+.slider-paragraph a {
+    background-color: #0067b8;
+    color: white;
+    padding: 2% 2%;
+    font-weight: 600;
+}
+.slider-bottom {
+    padding: 10px 0px;
+    display: block;
+}
+.slider-player {
+    width: 30%;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+.slider-player button,.slider-player span,.slider-player div {
+    display: inline-block;
+    font-size: xx-large;
+    background-color: transparent;
+    border: none;
+}
+.play-stop {
+    display: inline-block;
+    margin-right: 20px;
+}
+.shop-links {
+    padding: 3% 0%;
+}
+.shop-links ul{
+    width: 90%;
+    margin: 0 auto;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.shop-links ul li img {
+    width: 50px;
+}
+.shop-links ul li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.products-container {
+    padding: 2% 5%;
+}
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+}
+.card img {
+    width: 300px;
+    margin: 0px auto;
+
+}
+.card {
+    text-align: center;
+    width: 300px;
+    display: flex;
+    flex-direction: column;   
+    box-shadow: 5px 5px 20px gray;  
+    border-radius: 1px;
+}
+.card div {
+    height: 60px;
+}
+.card a {
+    background-color: #0067b8;
+    color: #fff;
+}
+
+.preview {
+    background-image: url(./images/Highlight-Copilot-Native-App-ROW_VP5-1596x600.jpeg);
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    margin: 90px;
+}
+.preview-paragraph {
+    background-color: transparent;
+    width: 30%;
+    margin: 10% 0% 10% 10%;
+    padding: 10px 20px;
+}
+.preview-paragraph h1 {
+    font-family: inherit;
+    font-weight: 600;
+    line-height: 1.2;
+    font-size: 1.8125rem;
+    margin-bottom: 1rem;
+    padding-top: 20px;
+}
+.preview-paragraph div {
+    margin-bottom: 1.5rem !important;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+
+}
+.preview-paragraph a {
+    background-color: #0067b8;
+    color: white;
+    padding: 2% 2%;
+    font-weight: 600;
+}
+footer {
+    background-color: #f2f2f2;
+    padding: 20px 5%;
+    font-size: 14px;
+}
+
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+.social-links {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.social-links img {
+    width: 24px;
+    height: 24px;
+}
+
+.back-to-top {
+    text-decoration: none;
+    font-weight: bold;
+    color: #0078d4;
+}
+
+.footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer-column {
+    width: 16%;
+    min-width: 150px;
+}
+
+.footer-column h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.footer-column ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-column ul li {
+    margin-bottom: 8px;
+}
+
+.footer-column ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+.footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #ccc;
+    padding-top: 15px;
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.footer-bottom ul {
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-bottom ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+.footer-bottom span {
+    color: #666;
+}

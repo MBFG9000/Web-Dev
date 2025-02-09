@@ -1,0 +1,170 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+    display: flex;
+    font-family: "Oswald", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    background-color: #fefae0;
+    flex-direction: column;
+}
+div {
+  display: block;
+}
+header {
+  background-color: #dda15e;
+  height: 8vh;
+  color: #fefae0;
+}
+.header-container {
+  display: flex;
+  background-color: transparent;
+  justify-content: space-between;
+  width: 90%;
+  margin: 0 auto;
+  padding: 0% 1%;
+  height: 8vh;
+  align-items: center;
+}
+.header-logo{
+    font-size: 32px;
+    font-weight: 900;
+}
+.header-nav-panel {
+    padding-right: 40px;
+}
+.header-nav-panel nav {
+  list-style: none;
+  display: flex;
+  gap:20px;
+}
+
+.header-nav-panel nav li a {
+    font-size: 20px;
+    text-decoration: none;
+    color: #fefae0;
+}
+main {
+  background-color: #fefae0;
+  min-height: 86vh;
+}
+.main-container {
+    margin: 0px auto;
+    width: 94%;
+    background-color: #fefae0;
+    display: flex;
+    flex-direction: column;
+    padding: 0% 1%;
+}
+footer {
+    background-color: #fefae0;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #bc6c25;
+  border-radius: 8px;
+  padding: 10px;
+  background-color: #fff;
+  margin-bottom: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.item:hover {
+  transform: translateY(-2px);
+}
+
+.input-controller {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.input-controller textarea {
+  flex: 1;
+  min-height: 60px;
+  resize: none;
+  font-size: 16px;
+  font-family: inherit;
+  padding: 8px;
+  border: 1px solid #bc6c25;
+  border-radius: 4px;
+  background-color: #fefae0;
+  color: #000;
+  margin-right: 10px;
+}
+
+.edit-controller {
+  display: flex;
+  gap: 10px;
+}
+
+.edit-controller i {
+  font-size: 24px;
+  color: #dda15e;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.edit-controller i:hover {
+  color: #bc6c25;
+}
+
+.update-controller {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.update-controller button {
+  font-size: 16px;
+  padding: 5px 15px;
+  border: 1px solid #dda15e;
+  border-radius: 4px;
+  background-color: #dda15e;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.update-controller button:hover {
+  background-color: #bc6c25;
+}
+
+.task-adding {
+  width: 100%;
+  background-color: #fefae0;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+  
+}
+.task-adding {
+  display: block;
+  text-align: center;
+  font-size: 20px;
+}
+
+.to-do-input  input{
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 4px;
+  border: 2px solid;
+  font-family: inherit;
+}
+.to-do-input button {
+  font-size: 20px;
+  padding: 5px 15px;
+  margin-left: 5px;
+  font-family: inherit;
+  background-color: #dda15e;
+}
+.update-controller {
+  display: none;
+}

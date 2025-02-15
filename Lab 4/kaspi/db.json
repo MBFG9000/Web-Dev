@@ -1,0 +1,125 @@
+{
+    "products": [
+        {
+            "id": "101214928",
+            "title": "Видеокарта Palit GeForce RTX 3060 Dual NE63060019K9-190AD 12GB",
+            "price": 183990,
+            "category": "gpu",
+            "rating": 5.0,
+            "description": "Видеокарта Palit GeForce RTX 3060 DUAL (LHR) [NE63060019K9-190AD] отличается высокой производительностью...",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h34/h94/64210422890526.jpg?format=gallery-medium"
+            },
+            "productUrl": "https://kaspi.kz/shop/p/palit-geforce-rtx-3060-dual-ne63060019k9-190ad-12gb-101214928/?srsltid=AfmBOopRP7fipeF7g4JzVuSJcd9H4If7_IVAL5DniMP6QxQf89JOJft3"
+        },
+        {
+            "id": "101418880",
+            "title": "Видеокарта Manli NVIDIA GeForce RTX 3080 10GB",
+            "price": 1299990,
+            "category": "gpu",
+            "rating": 5.0,
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h03/h3c/64241758535710.jpg?format=gallery-medium"
+            },
+            "productUrl": "https://kaspi.kz/shop/p/manli-nvidia-geforce-rtx-3080-10gb-101418880/?c=750000000"
+        },
+        {
+            "id": "101717712",
+            "title": "Видеокарта GIGABYTE GeForce RTX 3060 GAMING OC 12G rev. 2.0 12 ГБ",
+            "price": 195000,
+            "category": "gpu",
+            "rating": 5.0,
+            "description": "Видеокарта GIGABYTE GeForce RTX 3060 GAMING OC Rev2.0...",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hbd/hfb/64345175982110.jpg?format=gallery-medium"
+            },
+            "productUrl": "https://kaspi.kz/shop/p/gigabyte-geforce-rtx-3060-gaming-oc-12g-rev-2-0-12-gb-101717712/?c=750000000"
+        },
+        {
+            "id": "103128803",
+            "title": "Видеокарта NVIDIA GeForce RTX 3070 Ti Founders Edition 8GB",
+            "price": 998000,
+            "category": "gpu",
+            "rating": false,
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h3e/hde/64014181203998.jpg?format=gallery-medium"
+            },
+
+            "productUrl": "https://kaspi.kz/shop/p/nvidia-geforce-rtx-3070-ti-founders-edition-8gb-103128803/?c=750000000"
+        },
+        {
+            "id": "109334214",
+            "title": "Видеокарта PNY NVIDIA RTX A4500 VCNRTXA4500-SB 20 ГБ",
+            "price": 963050,
+            "category": "gpu",
+            "rating": false,
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h12/hfc/70033404919838.jpg?format=gallery-medium"
+            },
+            "productUrl": "https://kaspi.kz/shop/p/pny-nvidia-rtx-a4500-vcnrtxa4500-sb-20-gb-109334214/?c=750000000"
+        },
+        {
+            "id": "112040551",
+            "title": "Видеокарта GIGABYTE GeForce RTX 4060 GAMING OC GV-N4060GAMING OC-8GD 8 Гб",
+            "price": 217470,
+            "category": "gpu",
+            "rating": 5.0,
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h9d/h3f/82307177611294.jpg?format=gallery-medium"
+            }, 
+            "productUrl": "https://kaspi.kz/shop/p/gigabyte-geforce-rtx-4060-gaming-oc-gv-n4060gaming-oc-8gd-8-gb-112040551/?c=750000000"
+        },
+        {
+            "id": "6400282",
+            "title": "Процессор AMD Ryzen 5 2600 OEM",
+            "price": 29999,
+            "category": "cpu",
+            "rating": 4.2,
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hce/h98/63760080601118.jpg?format=gallery-medium"
+            },
+            "productUrl": "https://kaspi.kz/shop/p/amd-ryzen-5-2600-oem-6400282/?c=750000000"
+        },
+        {
+            "id": "100842722",
+            "title": "Процессор AMD Ryzen 5 5600X OEM",
+            "price": 55810,
+            "category": "cpu",
+            "rating": 4.9,
+            "description": "Процессор AMD Ryzen 5 5600X OEM представляет собой производительное решение...",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hd9/h02/63826994429982.jpg?format=gallery-medium"
+            }, 
+            "productUrl": "https://kaspi.kz/shop/p/amd-ryzen-5-5600x-oem-100842722/?c=750000000"
+        },
+        {
+            "id": "115860623",
+            "title": "Смартфон Samsung Galaxy A25 5G 8 ГБ/256 ГБ темно-синий",
+            "price": 121990,
+            "category": "smartphone",
+            "rating": 4.4,
+            "description": "Общий дизайн Galaxy A25 остается схожим с предыдущими моделями...",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h18/had/84878371422238.png?format=gallery-medium"
+            }, 
+            "productUrl": "https://kaspi.kz/shop/p/samsung-galaxy-a25-5g-8-gb-256-gb-temno-sinii-115860623/?c=750000000"
+        },
+        {
+            "id": "102298364",
+            "title": "Смартфон Apple iPhone 13 128Gb синий",
+            "price": 272605,
+            "category": "smartphone",
+            "rating": 4.7,
+            "description": "Apple iPhone 13 получил дисплей 6.1 дюйма Super Retina XDR...",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hba/h2e/64206204993566.jpg?format=gallery-medium"
+            },
+            "productUrl": "https://kaspi.kz/shop/p/apple-iphone-13-128gb-chernyi-102298404/?c=750000000"
+        }
+    ]
+}

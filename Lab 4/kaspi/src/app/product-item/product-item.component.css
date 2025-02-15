@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+}
+
+section {
+    display: inline-block;
+    width: 240px;
+    height: 350px;
+    max-width: 240px;
+    max-height: 350px;
+    padding: 5px;
+    border-top: 1px solid   gray;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+a{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 21px;
+    width: 100%;
+    max-height: 150px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+a img {
+    width: 100%;
+    max-height: 100%;
+    object-fit: contain; 
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+.item-info {
+    padding: 8px;
+    font-size: 14px;
+    flex-grow: 1; /* Заполняет оставшееся пространство */
+    text-align: left;
+}
+.name {
+    margin-bottom: 10px;
+    height: 50px;
+    font-weight: 900;
+}
+.description {
+    width: 90%;
+    height: 65px;
+    overflow: hidden;
+}
+.price {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+    height: 10px;
+}
+.rating {
+    height: 5px;
+}
+button {
+    border: none;
+    border-radius: 2px;
+    background-color: rgba(255, 0, 0, 0.5);
+    color:white;
+    font-weight: 900;
+    cursor: pointer;
+}

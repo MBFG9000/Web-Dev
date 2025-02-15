@@ -1,0 +1,16 @@
+<section>
+  <div class="item">
+      <a [href]="product.productUrl"><img [src]="product.images['1']"/></a>
+    <div class="item-info">
+      <div class="name">{{product.title}}</div>
+      <div class="description">{{product.description}}</div>
+      @if(product.rating){
+        <div class="rating"><span style="color: yellow;">&starf;</span> : {{product.rating}}</div>
+      }
+      @else{
+        <div class="rating">&starf;</div>
+      }
+      <div class="price">{{product.price}} | <button (click)="shareOnTelegram(product.productUrl)">Share</button></div>
+    </div>
+  </div>
+</section>

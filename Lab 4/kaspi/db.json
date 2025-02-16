@@ -1,0 +1,737 @@
+{
+    "products": [
+        {
+            "id": "101214928",
+            "title": "Видеокарта Palit GeForce RTX 3060 Dual NE63060019K9-190AD 12GB",
+            "price": 183990,
+            "category": "gpu",
+            "description": "Видеокарта Palit GeForce RTX 3060 DUAL (LHR) [NE63060019K9-190AD] отличается высокой производительностью и станет отличным выбором для профессиональных рабочих станций и игровых систем. Благодаря технологиям Ampere, мощному видеопроцессору и 12 ГБ встроенной памяти данная модель позволяет с легкостью решать любые задачи – будь то работа с графикой, моделирование или запуск игр. Кроме того, видеоускоритель поддерживает трассировку лучей, что может обеспечить более реалистичное изображение в играх. Для отвода тепла предусмотрено 2 осевых вентилятора с особой формой лопастей, за счет которых рабочая температура не превышает 93°C.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h34/h94/64210422890526.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/hbf/h50/64210425643038.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h4e/hb3/64210429050910.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "101418880",
+            "title": "Видеокарта Manli NVIDIA GeForce RTX 3080 10GB",
+            "price": 1299990,
+            "category": "gpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h03/h3c/64241758535710.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h4b/h39/64241760272414.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h68/h58/64241762304030.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "101717712",
+            "title": "Видеокарта GIGABYTE GeForce RTX 3060 GAMING OC 12G rev. 2.0 12 ГБ",
+            "price": 195000,
+            "category": "gpu",
+            "description": "Видеокарта GIGABYTE GeForce RTX 3060 GAMING OC Rev2.0 способна гарантировать возможность комфортного использования большинства видеоигр. Главный компонент видеоадаптера – видеопроцессор GeForce RTX 3060. Устройство не располагает поддержкой мультипроцессорной конфигурации.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hbd/hfb/64345175982110.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h34/h45/64345178210334.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/he0/hbd/64345181192222.jpg?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h95/hd0/64345183748126.jpg?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/hde/hda/64345186533406.jpg?format=gallery-medium",
+                "6": "https://i.ytimg.com/vi/O3f9dpfua-M/default.jpg"
+            }
+        },
+        {
+            "id": "103128803",
+            "title": "Видеокарта NVIDIA GeForce RTX 3070 Ti Founders Edition 8GB",
+            "price": 998000,
+            "category": "gpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h3e/hde/64014181203998.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h06/h2e/64014249820190.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/hd0/h61/64014255849502.jpg?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/hd6/h80/64014258339870.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "109334214",
+            "title": "Видеокарта PNY NVIDIA RTX A4500 VCNRTXA4500-SB 20 ГБ",
+            "price": 963050,
+            "category": "gpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h12/hfc/70033404919838.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h24/h32/70033408557086.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h2b/hb9/70033408819230.jpg?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h6a/hbe/70033409081374.jpg?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/h3f/hb8/70033409343518.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "112040551",
+            "title": "Видеокарта GIGABYTE GeForce RTX 4060 GAMING OC GV-N4060GAMING OC-8GD 8 Гб",
+            "price": 217470,
+            "category": "gpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h9d/h3f/82307177611294.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h35/hcb/82307177644062.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h07/h99/82169193955358.jpg?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h79/h29/82169198084126.jpg?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/h36/ha3/82169202081822.jpg?format=gallery-medium",
+                "6": "https://resources.cdn-kaspi.kz/img/m/p/h16/h9b/82169205882910.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "112387784",
+            "title": "Видеокарта MSI GeForce RTX 4060 VENTUS 2X BLACK OC 8 Гб",
+            "price": 329990,
+            "category": "gpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hee/h21/82598043615262.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h40/h32/82598044237854.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "112525286",
+            "title": "Видеокарта ZOTAC GAMING RTX 4060 Twin Edge ZT-D40600E-10M 8 Гб",
+            "price": 192799,
+            "category": "gpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h00/h5a/84727487037470.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h8b/h46/84727487070238.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h1c/hd3/84727487135774.jpg?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/hb5/ha0/84727487201310.jpg?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/h64/h41/84727487266846.jpg?format=gallery-medium",
+                "6": "https://resources.cdn-kaspi.kz/img/m/p/hc1/hea/84727487332382.jpg?format=gallery-medium",
+                "7": "https://resources.cdn-kaspi.kz/img/m/p/h52/h50/84727487397918.jpg?format=gallery-medium",
+                "8": "https://resources.cdn-kaspi.kz/img/m/p/h86/h83/84727487463454.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "118157932",
+            "title": "Видеокарта Palit RTX 4060 INFINITY 2 8 Гб",
+            "price": 194970,
+            "category": "gpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h14/h8b/85667063857182.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/ha8/h38/85667063922718.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/ha3/h06/85667063988254.png?format=gallery-medium"
+            }
+        },
+        {
+            "id": "131973612",
+            "title": "Видеокарта PNY NVIDIA Quadro RTX A1000 PNY (VCNRTXA1000-SB) 8 Гб",
+            "price": 282873,
+            "category": "gpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/pfa/pe2/15059190.png?format=gallery-medium"
+            }
+        },
+        {
+            "id": "134267548",
+            "title": "Видеокарта NVIDIA RTX5080 16 Гб",
+            "price": 1200000,
+            "category": "gpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/pd7/p52/23331361.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/pf3/p52/23331362.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/p0f/p53/23331363.jpg?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/p2b/p53/23331364.jpg?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/p48/p53/23331365.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "6400282",
+            "title": "Процессор AMD Ryzen 5 2600 OEM",
+            "price": 29999,
+            "category": "cpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hce/h98/63760080601118.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/he9/h6f/63760081059870.jpg?format=gallery-medium",
+                "3": "https://i.ytimg.com/vi/fQSiSvNLit4/default.jpg"
+            }
+        },
+        {
+            "id": "100842722",
+            "title": "Процессор AMD Ryzen 5 5600X OEM",
+            "price": 55810,
+            "category": "cpu",
+            "description": "Процессор AMD Ryzen 5 5600X OEM представляет собой производительное решение для игровых систем и рабочих станций. Данная модель выполнена на основе архитектуры Vermeer по техпроцессу 7 нм, что вкупе с 6 физическими ядрами и 12 виртуальными потоками обеспечит высокую вычислительную мощность в самых разных задачах. Диапазон рабочих частот процессора может варьироваться от 3.7 до 4.6 ГГц и при помощи свободного множителя может быть повышен для достижения еще большей производительности. Максимальный объем оперативной памяти может составлять 128 ГБ типа DDR4. Встроенный в процессор контроллер PCI-E соответствует версии 4.0. Также модель поддерживает широкий набор команд, инструкций и технологий виртуализации, что делает данное решение универсальным выбором как для профессиональной работы, так и развлечений.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hd9/h02/63826994429982.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h2a/h5f/63826997510174.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/he8/h9c/63827000623134.jpg?format=gallery-medium",
+                "4": "https://i.ytimg.com/vi/G-gZVUBvP9Y/default.jpg"
+            }
+        },
+        {
+            "id": "100882420",
+            "title": "Процессор AMD Ryzen 7 5800X OEM",
+            "price": 101290,
+            "category": "cpu",
+            "description": "Процессор AMD Ryzen 7 5800X OEM отличается высокой производительностью, за счет чего может стать отличным выбором для игровых и рабочих систем. В основе данной модели используется архитектура Vermeer и техпроцесс 7 нм, благодаря чему процессор отличается высокой технологичностью. Для монтажа на материнскую плату используется сокет AM4.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hdf/hf6/64071236943902.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h93/h40/64071240581150.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/hb1/hf9/64071243595806.jpg?format=gallery-medium",
+                "4": "https://i.ytimg.com/vi/tUe5B2zjEPU/default.jpg"
+            }
+        },
+        {
+            "id": "105933939",
+            "title": "Процессор AMD Ryzen 5 5600 OEM",
+            "price": 51550,
+            "category": "cpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h94/h7a/85518562983966.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "107747431",
+            "title": "Процессор AMD Ryzen 5 7600X OEM",
+            "price": 111169,
+            "category": "cpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hb8/hfd/66197843378206.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "107747610",
+            "title": "Процессор AMD Ryzen 5 5500 OEM",
+            "price": 34603,
+            "category": "cpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h36/h8d/66198080880670.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h16/hb9/66198081404958.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "112679525",
+            "title": "Процессор AMD Ryzen 7 7800X3D OEM",
+            "price": 273990,
+            "category": "cpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h10/h54/82965705752606.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/ha2/h2f/82965707456542.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "6400163",
+            "title": "Процессор Intel Core i5 7600 OEM",
+            "price": 29999,
+            "category": "cpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h0e/h7a/63770540048414.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "6400313",
+            "title": "Процессор Intel Core i5 9400F OEM",
+            "price": 36000,
+            "category": "cpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hb9/h31/63781385469982.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/he1/hf8/63781386518558.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h81/h23/63781386977310.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "100422560",
+            "title": "Процессор Intel Core i5-10400F OEM",
+            "price": 41795,
+            "category": "cpu",
+            "description": "Процессор Intel Core i5-10400F OEM способен проявить свою эффективность в составе игровых систем и мощных рабочих станций. Графическое ядро отсутствует: вам будет нужно позаботиться о выборе видеокарты. Базовая частота процессора равна 2900 МГц. Пиковая частота в турборежиме намного выше – 4300 МГц. Процессор обладает 12-мегабайтной кеш-памятью третьего уровня. Объем кеша L2 равен 1.5 МБ. Совместимая память – DDR4.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hcc/h71/64031177768990.jpg?format=gallery-medium",
+                "2": "https://i.ytimg.com/vi/goC43msTkbY/default.jpg"
+            }
+        },
+        {
+            "id": "101388308",
+            "title": "Процессор Intel Core i5 11400F OEM",
+            "price": 50999,
+            "category": "cpu",
+            "description": "Процессор Intel Core i5-11400F OEM сочетает в себе высокую производительность и эффективность, благодаря чему эта модель отличается универсальностью и может использоваться для мощных игровых систем и рабочих станций. Процессор выполнен на базе Rocket Lake-S и техпроцесса 14 нм, за счет чего отличается технологичностью. Помимо этого, благодаря особой конструкции и сокету LGA 1200 модуль отличается простой установкой.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h3e/hb4/64223364743198.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h3c/hb0/64223368216606.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h3d/h16/64223371231262.jpg?format=gallery-medium",
+                "4": "https://i.ytimg.com/vi/_3wvXF-jBRE/default.jpg"
+            }
+        },
+        {
+            "id": "102908373",
+            "title": "Процессор Intel Core i5-12600KF OEM",
+            "price": 80657,
+            "category": "cpu",
+            "description": "Процессоры Intel Core 12-го поколения — это уникальное поколение процессоров. Благодаря беспрецедентно новой высокопроизводительной гибридной архитектуре процессоры Intel Core 12-го поколения обеспечивают уникальное сочетание высокопроизводительных и энергоэффективных ядер (P-core и E-core).",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hfe/he1/64204752257054.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/ha6/h1e/64204755599390.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h30/h65/64204757762078.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "103650843",
+            "title": "Процессор Intel Core i5 12400 OEM",
+            "price": 64227,
+            "category": "cpu",
+            "description": "Эти процессоры созданы на базе инновационной архитектуры, разработанной для обеспечения интеллектуальной производительности (ИИ), реалистичного изображения и графики, а также усовершенствованных функций настройки и расширения, чтобы геймеры и энтузиасты ПК могли полностью контролировать реальные возможности.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h2a/he3/64303227174942.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h92/h1d/64303295922206.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "103698110",
+            "title": "Процессор Intel Core i5 12400F OEM",
+            "price": 59300,
+            "category": "cpu",
+            "description": "Процессор Intel Core i5-12400F – чип со сбалансированной производительностью. Можно использовать его для создания различных сборок. При изготовлении применялся технологический процесс 7 нм. Он позволяет добиться небольшого потребления энергии и тепловыделения. Процессор выполнен с применением архитектуры Alder Lake. Она позволила поднять производительность в сравнении с чипами прошлого поколения. Используется шесть ядер и двенадцать потоков для обработки информации.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hc1/h5c/64405668659230.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h35/h7a/64405673476126.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "106943571",
+            "title": "Процессор Intel Core i5 3470S OEM",
+            "price": 14999,
+            "category": "cpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hf0/ha1/86371729113118.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "107526884",
+            "title": "Процессор Intel Core i5 13600KF OEM",
+            "price": 114526,
+            "category": "cpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hc1/h3e/65579842732062.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "108565037",
+            "title": "Процессор Intel Core i5 13400F OEM",
+            "price": 65995,
+            "category": "cpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h6d/h1b/86371733438494.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "114335032",
+            "title": "Процессор Intel Core i5 14600KF OEM",
+            "price": 111353,
+            "category": "cpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/ha6/h30/84450384248862.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "116212348",
+            "title": "Процессор Intel Core i5 14400F OEM",
+            "price": 75199,
+            "category": "cpu",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h9e/h5a/85012887240734.png?format=gallery-medium"
+            }
+        },
+        {
+            "id": "115860623",
+            "title": "Смартфон Samsung Galaxy A25 5G 8 ГБ/256 ГБ темно-синий",
+            "price": 121990,
+            "category": "smartphone", 
+            "description": "Общий дизайн Galaxy A25 остается схожим с предыдущими моделями: это отдельные объективы камеры и плоская пластиковая задняя панель, которая теперь украшена едва заметным узором из клеток. Это придает гаджету интересный вид в том случае, если вы предпочитаете прозрачные чехлы или обходитесь без них. Боковая пластиковая рамка была немного изменена вокруг кнопок включения и громкости, смартфон более приятно ощущается в руке. В отличие от более дорогих моделей Galaxy, у Galaxy A25 отсутствует официальная защита от воды и пыли, однако сам корпус собран качественно, элементы плотно подогнаны друг к другу.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h18/had/84878371422238.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h1d/h73/84878371487774.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h10/h19/84878371553310.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/hfb/h30/84878371684382.png?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/h39/h16/84878371749918.png?format=gallery-medium",
+                "6": "https://resources.cdn-kaspi.kz/img/m/p/h12/hea/84878371815454.png?format=gallery-medium",
+                "7": "https://resources.cdn-kaspi.kz/img/m/p/h5b/h58/84878371946526.png?format=gallery-medium",
+                "8": "https://resources.cdn-kaspi.kz/img/m/p/hd7/he7/84878372012062.png?format=gallery-medium",
+                "9": "https://i.ytimg.com/vi/gHADH2RCM10/default.jpg"
+            }
+        },
+        {
+            "id": "115937459",
+            "title": "Смартфон Samsung Galaxy A25 5G 6 ГБ/128 ГБ темно-синий",
+            "price": 109900,
+            "category": "smartphone",
+            "description": "Общий дизайн Galaxy A25 остается схожим с предыдущими моделями: это отдельные объективы камеры и плоская пластиковая задняя панель, которая теперь украшена едва заметным узором из клеток. Это придает гаджету интересный вид в том случае, если вы предпочитаете прозрачные чехлы или обходитесь без них. Боковая пластиковая рамка была немного изменена вокруг кнопок включения и громкости, смартфон более приятно ощущается в руке. В отличие от более дорогих моделей Galaxy, у Galaxy A25 отсутствует официальная защита от воды и пыли, однако сам корпус собран качественно, элементы плотно подогнаны друг к другу.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hcf/h1c/84932692574238.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/hc4/h3d/84932660494366.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h20/h07/84932660559902.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h49/hdd/84932660625438.png?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/h23/hb2/84932660690974.png?format=gallery-medium",
+                "6": "https://resources.cdn-kaspi.kz/img/m/p/h42/h49/84932660756510.png?format=gallery-medium",
+                "7": "https://resources.cdn-kaspi.kz/img/m/p/h94/he0/84932660822046.png?format=gallery-medium",
+                "8": "https://resources.cdn-kaspi.kz/img/m/p/hc9/h00/84932660887582.png?format=gallery-medium",
+                "9": "https://resources.cdn-kaspi.kz/img/m/p/hb4/h8d/84932660953118.png?format=gallery-medium",
+                "10": "https://i.ytimg.com/vi/ZnDpOGKID30/default.jpg"
+            }
+        },
+        {
+            "id": "117420207",
+            "title": "Смартфон Samsung Galaxy A55 5G 8 ГБ/256 ГБ темно-синий",
+            "price": 177064,
+            "category": "smartphone",
+            "description": "Samsung представила новый смартфон среднебюджетной A-серии – Galaxy A55, и на сегодня это топовая модель линейки, получившая значительные улучшения как в характеристиках, так и в программном обеспечении, в том числе и мощный процессор с графикой от AMD. Сейчас это единственный смартфон Самсунг с технологией бесшовного обновления – больше не нужно ждать, пока обновится Android. A55 предлагает доступную цену, интересный дизайн с гармонией стекла и металла и почти флагманские характеристики, что чаще встречается среди китайских конкурентов.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h21/h36/85428899414046.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h14/hea/85428899479582.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h96/h5b/85428899545118.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/hf7/hd9/85428899610654.png?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/h5f/hb0/85428543684638.jpg?format=gallery-medium",
+                "6": "https://resources.cdn-kaspi.kz/img/m/p/hae/had/85428543717406.jpg?format=gallery-medium",
+                "7": "https://resources.cdn-kaspi.kz/img/m/p/hc7/h7b/85428543750174.jpg?format=gallery-medium",
+                "8": "https://resources.cdn-kaspi.kz/img/m/p/hd5/hd8/85428543782942.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "117420239",
+            "title": "Смартфон Samsung Galaxy A55 5G 8 ГБ/128 ГБ темно-синий",
+            "price": 156800,
+            "category": "smartphone",
+            "description": "Samsung представила новый смартфон среднебюджетной A-серии – Galaxy A55, и на сегодня это топовая модель линейки, получившая значительные улучшения как в характеристиках, так и в программном обеспечении, в том числе и мощный процессор с графикой от AMD. Сейчас это единственный смартфон Самсунг с технологией бесшовного обновления – больше не нужно ждать, пока обновится Android. A55 предлагает доступную цену, интересный дизайн с гармонией стекла и металла и почти флагманские характеристики, что чаще встречается среди китайских конкурентов.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h03/h20/85428948598814.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/hdc/hf3/85428948664350.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h42/h7d/85428948729886.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h25/h62/85428948795422.png?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/h6f/ha2/85428544471070.jpg?format=gallery-medium",
+                "6": "https://resources.cdn-kaspi.kz/img/m/p/h67/hcd/85429036023838.jpg?format=gallery-medium",
+                "7": "https://resources.cdn-kaspi.kz/img/m/p/hc5/h27/85429036056606.jpg?format=gallery-medium",
+                "8": "https://resources.cdn-kaspi.kz/img/m/p/h62/h9b/85429036089374.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "117420262",
+            "title": "Смартфон Samsung Galaxy A55 5G 8 ГБ/256 ГБ сиреневый",
+            "price": 178345,
+            "category": "smartphone",
+            "description": "Samsung представила новый смартфон среднебюджетной A-серии – Galaxy A55, и на сегодня это топовая модель линейки, получившая значительные улучшения как в характеристиках, так и в программном обеспечении, в том числе и мощный процессор с графикой от AMD. Сейчас это единственный смартфон Самсунг с технологией бесшовного обновления – больше не нужно ждать, пока обновится Android. A55 предлагает доступную цену, интересный дизайн с гармонией стекла и металла и почти флагманские характеристики, что чаще встречается среди китайских конкурентов.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h14/h12/85428764606494.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h7c/hf1/85428764672030.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/ha3/h7f/85428764737566.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h8a/h0c/85428764803102.png?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/h1b/h88/85429036908574.jpg?format=gallery-medium",
+                "6": "https://resources.cdn-kaspi.kz/img/m/p/he0/h9d/85429036941342.jpg?format=gallery-medium",
+                "7": "https://resources.cdn-kaspi.kz/img/m/p/h4c/h57/85429036974110.jpg?format=gallery-medium",
+                "8": "https://resources.cdn-kaspi.kz/img/m/p/h0c/h23/85429037006878.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "117420288",
+            "title": "Смартфон Samsung Galaxy A55 5G 8 ГБ/128 ГБ сиреневый",
+            "price": 156437,
+            "category": "smartphone",
+            "description": "Samsung представила новый смартфон среднебюджетной A-серии – Galaxy A55, и на сегодня это топовая модель линейки, получившая значительные улучшения как в характеристиках, так и в программном обеспечении, в том числе и мощный процессор с графикой от AMD. Сейчас это единственный смартфон Самсунг с технологией бесшовного обновления – больше не нужно ждать, пока обновится Android. A55 предлагает доступную цену, интересный дизайн с гармонией стекла и металла и почти флагманские характеристики, что чаще встречается среди китайских конкурентов.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h11/hec/85429003943966.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h24/h6f/85429004009502.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h78/h67/85429004075038.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/hd8/he5/85429004140574.png?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/h8a/h82/85429037367326.jpg?format=gallery-medium",
+                "6": "https://resources.cdn-kaspi.kz/img/m/p/h36/h61/85429037400094.jpg?format=gallery-medium",
+                "7": "https://resources.cdn-kaspi.kz/img/m/p/h29/h04/85429037432862.jpg?format=gallery-medium",
+                "8": "https://resources.cdn-kaspi.kz/img/m/p/h56/hf9/85429037465630.jpg?format=gallery-medium"
+            }
+        },
+        {
+            "id": "117420425",
+            "title": "Смартфон Samsung Galaxy A35 5G 8 ГБ/256 ГБ темно-синий",
+            "price": 140395,
+            "category": "smartphone",
+            "description": "Новый Samsung Galaxy A35 – это смартфон средней ценовой категории. Среднебюджетная серия Galaxy A постоянно обновляется и улучшается, предлагая пользователям улучшенные характеристики и приятную стоимость, и A35 стал достойным продолжением линейки.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h8a/h7d/85428766703646.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h85/h4b/85428766769182.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/hbd/hf0/85428766834718.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h69/h3b/85428766900254.png?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/h92/h9b/85429039398942.jpg?format=gallery-medium",
+                "6": "https://resources.cdn-kaspi.kz/img/m/p/h6e/hfb/85429039431710.jpg?format=gallery-medium",
+                "7": "https://resources.cdn-kaspi.kz/img/m/p/hc4/hc6/85429039530014.jpg?format=gallery-medium",
+                "8": "https://resources.cdn-kaspi.kz/img/m/p/h62/hb1/85429039562782.jpg?format=gallery-medium",
+                "9": "https://i.ytimg.com/vi/8lMnsOeodG8/default.jpg"
+            }
+        },
+        {
+            "id": "117420446",
+            "title": "Смартфон Samsung Galaxy A35 5G 8 ГБ/128 ГБ темно-синий",
+            "price": 124989,
+            "category": "smartphone",
+            "description": "Новый Samsung Galaxy A35 – это смартфон средней ценовой категории. Среднебюджетная серия Galaxy A постоянно обновляется и улучшается, предлагая пользователям улучшенные характеристики и приятную стоимость, и A35 стал достойным продолжением линейки.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h2b/h5e/85429009285150.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/he5/h1d/85429009350686.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/hc5/h86/85429009416222.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h9c/haf/85429009481758.png?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/hd1/hd0/85429009547294.png?format=gallery-medium",
+                "6": "https://resources.cdn-kaspi.kz/img/m/p/h21/h69/85429009612830.png?format=gallery-medium",
+                "7": "https://resources.cdn-kaspi.kz/img/m/p/h76/h9d/85429009678366.png?format=gallery-medium",
+                "8": "https://i.ytimg.com/vi/8lMnsOeodG8/default.jpg"
+            }
+        },
+        {
+            "id": "117420466",
+            "title": "Смартфон Samsung Galaxy A35 5G 8 ГБ/256 ГБ сиреневый",
+            "price": 140399,
+            "category": "smartphone",
+            "description": "Новый Samsung Galaxy A35 – это смартфон средней ценовой категории. Среднебюджетная серия Galaxy A постоянно обновляется и улучшается, предлагая пользователям улучшенные характеристики и приятную стоимость, и A35 стал достойным продолжением линейки.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h25/hdb/85428768866334.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h79/ha6/85428768931870.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h23/h93/85428768997406.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/hb5/h00/85428769062942.png?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/h2f/h1e/85428769128478.png?format=gallery-medium",
+                "6": "https://resources.cdn-kaspi.kz/img/m/p/h38/hc1/85428769194014.png?format=gallery-medium",
+                "7": "https://resources.cdn-kaspi.kz/img/m/p/h37/hb2/85428769259550.png?format=gallery-medium",
+                "8": "https://i.ytimg.com/vi/8lMnsOeodG8/default.jpg"
+            }
+        },
+        {
+            "id": "123156529",
+            "title": "Смартфон Samsung Galaxy A06 4 ГБ/64 ГБ черный",
+            "price": 47899,
+            "category": "smartphone",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hba/h84/87014305824798.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/hdd/h9b/87014305890334.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h4c/h0f/87014305955870.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h24/h6b/87014306021406.png?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/h10/hb5/87014306086942.png?format=gallery-medium"
+            }
+        },
+        {
+            "id": "123429834",
+            "title": "Смартфон Samsung Galaxy A06 6 ГБ/128 ГБ черный",
+            "price": 62000,
+            "category": "smartphone",
+            "description": "Расширьте возможности благодаря большому экрану Samsung Galaxy A06 диагональю 6,7 дюйма. Теперь просматривать контент стало еще удобнее благодаря плавной прокрутке с частотой 60 Гц и дисплею с U-вырезом и TFT-матрицей. Смартфон получил повышенный уровень комфорта благодаря уменьшенному с 8,8 мм до 8,0 мм корпусу. А классические цвета смартфонов подчеркнут вашу индивидуальность. Откройте для себя возможности камеры Galaxy A06 с разрешением 50 МП. Создавайте фотографии потрясающего качества с помощью камеры с датчиком глубины 2 МП — она придаст изображению дополнительный объем. А фронтальная камера 8 МП обеспечит безупречную четкость ваших снимков. Благодаря боковому сканеру отпечатков пальцев разблокировать смартфон просто как никогда. Вы также можете активировать функцию двойного нажатия для включения камеры или других часто используемых приложений. Занимайтесь любимым делом, не беспокоясь об аккумуляторе — Galaxy A06 работает еще дольше от одного заряда. А поддержка супер быстрой зарядки в считанные минуты наполнит его энергией.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hf2/h00/87088029925406.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/hab/hca/87088030056478.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h20/hbe/87088035233822.jpg?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h07/h05/87088035266590.jpg?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/h75/hf2/87088035299358.jpg?format=gallery-medium",
+                "6": "https://resources.cdn-kaspi.kz/img/m/p/h76/h89/87088035332126.jpg?format=gallery-medium",
+                "7": "https://resources.cdn-kaspi.kz/img/m/p/h82/h01/87088030515230.jpg?format=gallery-medium",
+                "8": "https://resources.cdn-kaspi.kz/img/m/p/h59/h2a/87088030580766.jpg?format=gallery-medium",
+                "9": "https://resources.cdn-kaspi.kz/img/m/p/h3a/h93/87088030646302.jpg?format=gallery-medium",
+                "10": "https://i.ytimg.com/vi/HaSyeO-hkQA/default.jpg"
+            }
+        },
+        {
+            "id": "130609900",
+            "title": "Смартфон Samsung Galaxy A16 6 ГБ/128 ГБ черный",
+            "price": 79312,
+            "category": "smartphone",
+            "description": "",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/p60/p80/10325751.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/p7c/p80/10325752.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/p99/p80/10325753.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/pb5/p80/10325754.png?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/pd1/p80/10325755.png?format=gallery-medium",
+                "6": "https://resources.cdn-kaspi.kz/img/m/p/ped/p80/10325756.png?format=gallery-medium",
+                "7": "https://resources.cdn-kaspi.kz/img/m/p/p09/p81/10325757.png?format=gallery-medium",
+                "8": "https://resources.cdn-kaspi.kz/img/m/p/p26/p81/10325758.png?format=gallery-medium",
+                "9": "https://resources.cdn-kaspi.kz/img/m/p/p42/p81/10325759.png?format=gallery-medium"
+            }
+        },
+        {
+            "id": "102298364",
+            "title": "Смартфон Apple iPhone 13 128Gb синий",
+            "price": 272605,
+            "category": "smartphone",
+            "description": "Apple iPhone 13 получил дисплей 6.1 дюйма Super Retina XDR, который отличается невероятно высокой плотностью пикселей — фотографии, видео и текст выглядят поразительно четко. А благодаря уменьшенной площади камеры TrueDepth на дисплее теперь больше места для изображения. Apple разработали совершенно новую схему расположения камер и развернули объективы на 45 градусов. Благодаря этому внутри корпуса поместилась лучшая система двух камер с увеличенной матрицей широкоугольной камеры. Кроме того, освободилось место для системы оптической стабилизации изображения со сдвигом матрицы, и увеличилась скорость работы матрицы на сверхширокоугольной камере.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hba/h2e/64206204993566.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/hb4/h03/64206207352862.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/hb8/h32/64206209384478.jpg?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/he8/h1c/64206212857886.jpg?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/h16/h4d/64206215020574.jpg?format=gallery-medium",
+                "6": "https://i.ytimg.com/vi/qXe3z6VEb1E/default.jpg"
+            }
+        },
+        {
+            "id": "102298404",
+            "title": "Смартфон Apple iPhone 13 128Gb черный",
+            "price": 279030,
+            "category": "smartphone",
+            "description": "Apple iPhone 13 получил дисплей 6.1 дюйма Super Retina XDR, который отличается невероятно высокой плотностью пикселей — фотографии, видео и текст выглядят поразительно четко. А благодаря уменьшенной площади камеры TrueDepth на дисплее теперь больше места для изображения. Apple разработали совершенно новую схему расположения камер и развернули объективы на 45 градусов. Благодаря этому внутри корпуса поместилась лучшая система двух камер с увеличенной матрицей широкоугольной камеры. Кроме того, освободилось место для системы оптической стабилизации изображения со сдвигом матрицы, и увеличилась скорость работы матрицы на сверхширокоугольной камере.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h32/h70/84378448199710.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h35/h8f/84378448232478.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h3d/h8e/64208874405918.jpg?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/hfe/h17/64208876634142.jpg?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/h65/h3f/64208879517726.jpg?format=gallery-medium",
+                "6": "https://i.ytimg.com/vi/qXe3z6VEb1E/default.jpg"
+            }
+        },
+        {
+            "id": "102298420",
+            "title": "Смартфон Apple iPhone 13 128Gb белый",
+            "price": 279897,
+            "category": "smartphone",
+            "description": "Apple iPhone 13 получил дисплей 6.1 дюйма Super Retina XDR, который отличается невероятно высокой плотностью пикселей — фотографии, видео и текст выглядят поразительно четко. А благодаря уменьшенной площади камеры TrueDepth на дисплее теперь больше места для изображения. Apple разработали совершенно новую схему расположения камер и развернули объективы на 45 градусов. Благодаря этому внутри корпуса поместилась лучшая система двух камер с увеличенной матрицей широкоугольной камеры. Кроме того, освободилось место для системы оптической стабилизации изображения со сдвигом матрицы, и увеличилась скорость работы матрицы на сверхширокоугольной камере.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hc9/h90/64209083007006.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h3b/h93/64209085235230.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h8f/hce/64209121476638.jpg?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h4b/h84/64209123573790.jpg?format=gallery-medium",
+                "5": "https://resources.cdn-kaspi.kz/img/m/p/hba/hc4/64209127243806.jpg?format=gallery-medium",
+                "6": "https://i.ytimg.com/vi/qXe3z6VEb1E/default.jpg"
+            }
+        },
+        {
+            "id": "104078887",
+            "title": "Смартфон Apple iPhone 13 128Gb зеленый",
+            "price": 276788,
+            "category": "smartphone",
+            "description": "Apple iPhone 13 получил дисплей 6.1 дюйма Super Retina XDR, который отличается невероятно высокой плотностью пикселей — фотографии, видео и текст выглядят поразительно четко. А благодаря уменьшенной площади камеры TrueDepth на дисплее теперь больше места для изображения. Apple разработали совершенно новую схему расположения камер и развернули объективы на 45 градусов. Благодаря этому внутри корпуса поместилась лучшая система двух камер с увеличенной матрицей широкоугольной камеры. Кроме того, освободилось место для системы оптической стабилизации изображения со сдвигом матрицы, и увеличилась скорость работы матрицы на сверхширокоугольной камере.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hd1/h2f/64255724159006.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h51/h3e/64255726747678.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/hdd/hf3/64255730286622.jpg?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h68/hb0/64255733039134.jpg?format=gallery-medium",
+                "5": "https://i.ytimg.com/vi/qXe3z6VEb1E/default.jpg"
+            }
+        },
+        {
+            "id": "123713453",
+            "title": "Смартфон Apple iPhone 16 128Gb черный",
+            "price": 422275,
+            "category": "smartphone",
+            "description": "Phone 16 – новый дизайн, яркие цвета, мощный процессор и свежая iOS 18 с искусственным интеллектом. Этот айфон предлагает еще больше возможностей, чем его предшественники, выводя базовую модель на другой уровень: лучше, интереснее, удобнее. Это компактный и удобный смартфон для тех, кому нужно производительное устройство в стильном корпусе без компромиссов по качеству фото или комфорту в использовании.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hf3/h65/87295470731294.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/he0/ha4/87295470764062.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h12/hfe/87295470796830.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/hff/h15/87295470829598.png?format=gallery-medium",
+                "5": "https://i.ytimg.com/vi/uVf94lVJLbI/default.jpg"
+            }
+        },
+        {
+            "id": "123787019",
+            "title": "Смартфон Apple iPhone 16 Pro 128Gb черный",
+            "price": 572935,
+            "category": "smartphone",
+            "description": "iPhone 16 Pro – это уникальный смартфон от Apple. Он создан на основе инноваций, отличается безукоризненным дизайном и потрясающей производительностью. Это флагманская модель линейки iPhone которая подчеркивает ваши неограниченные возможности и безупречный вкус. Роскошный Айфон 16 Pro в корпусе со скругленными углами, выверенным дизайном, изысканной рамкой. Смартфон, которого достойны только вы.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h8d/h0d/87295483052062.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h9b/h6a/87295483084830.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h52/h81/87295483117598.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h8d/h6b/87295483150366.png?format=gallery-medium",
+                "5": "https://i.ytimg.com/vi/wbM7QI69sgw/default.jpg"
+            }
+        },
+        {
+            "id": "123787551",
+            "title": "Смартфон Apple iPhone 16 Pro Max 256Gb черный",
+            "price": 690239,
+            "category": "smartphone",
+            "description": "Флагманский IPhone 16 Pro Max вобрал в себя лучшие черты современного гаджета. Это самое производительное устройство в линейке Apple iPhone с масштабным дисплеем, потрясающей производительностью и невероятной внешней эргономикой. Iphone 16 pro max – настоящий титан в своем семействе. Флагманская модель с тончайшими рамками корпуса обладает эргономичным дизайном, высокой ударо- и влагозащитой. Дополнена передней панелью Ceramic Shield последнего поколения и задней – из особого текстурированного стекла с матовой поверхностью. В серии несколько вариантов смартфонов – на 1Тб, на 256Гб, а также iphone 16 pro max 512GB в черном, титановом, белом цвете и новом нежном оттенке Desert Titanium.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hcf/h69/87295489343518.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h08/hd3/87295489376286.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h04/h8b/87295489409054.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/hfc/h0c/87295489441822.png?format=gallery-medium",
+                "5": "https://i.ytimg.com/vi/XyBdLR0rskA/default.jpg"
+            }
+        },
+        {
+            "id": "123887732",
+            "title": "Смартфон Apple iPhone 16 Pro 256Gb черный",
+            "price": 642121,
+            "category": "smartphone",
+            "description": "iPhone 16 Pro – это уникальный смартфон от Apple. Он создан на основе инноваций, отличается безукоризненным дизайном и потрясающей производительностью. Это флагманская модель линейки iPhone которая подчеркивает ваши неограниченные возможности и безупречный вкус. Роскошный Айфон 16 Pro в корпусе со скругленными углами, выверенным дизайном, изысканной рамкой. Смартфон, которого достойны только вы.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/hbc/h31/87295483445278.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h16/hd9/87295483478046.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h4f/h94/87295483510814.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h88/ha8/87295483543582.png?format=gallery-medium"
+            }
+        },
+        {
+            "id": "123889224",
+            "title": "Смартфон Apple iPhone 16 Pro 256Gb золотистый",
+            "price": 632974,
+            "category": "smartphone",
+            "description": "iPhone 16 Pro – это уникальный смартфон от Apple. Он создан на основе инноваций, отличается безукоризненным дизайном и потрясающей производительностью. Это флагманская модель линейки iPhone которая подчеркивает ваши неограниченные возможности и безупречный вкус. Роскошный Айфон 16 Pro в корпусе со скругленными углами, выверенным дизайном, изысканной рамкой. Смартфон, которого достойны только вы.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h20/hd4/87295486591006.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h43/hc3/87295486623774.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h8f/h47/87295486656542.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h9c/had/87295486689310.png?format=gallery-medium",
+                "5": "https://i.ytimg.com/vi/wbM7QI69sgw/default.jpg"
+            }
+        },
+        {
+            "id": "123889893",
+            "title": "Смартфон Apple iPhone 16 Pro 256Gb серебристый",
+            "price": 642989,
+            "category": "smartphone",
+            "description": "iPhone 16 Pro – это уникальный смартфон от Apple. Он создан на основе инноваций, отличается безукоризненным дизайном и потрясающей производительностью. Это флагманская модель линейки iPhone которая подчеркивает ваши неограниченные возможности и безупречный вкус. Роскошный Айфон 16 Pro в корпусе со скругленными углами, выверенным дизайном, изысканной рамкой. Смартфон, которого достойны только вы.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h0f/hef/87295488163870.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h73/h19/87295488196638.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h7f/h88/87295488229406.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h65/hba/87295488262174.png?format=gallery-medium",
+                "5": "https://i.ytimg.com/vi/wbM7QI69sgw/default.jpg"
+            }
+        },
+        {
+            "id": "123890547",
+            "title": "Смартфон Apple iPhone 16 Pro Max 256Gb золотистый",
+            "price": 684102,
+            "category": "smartphone",
+            "description": "Флагманский IPhone 16 Pro Max вобрал в себя лучшие черты современного гаджета. Это самое производительное устройство в линейке Apple iPhone с масштабным дисплеем, потрясающей производительностью и невероятной внешней эргономикой. Iphone 16 pro max – настоящий титан в своем семействе. Флагманская модель с тончайшими рамками корпуса обладает эргономичным дизайном, высокой ударо- и влагозащитой. Дополнена передней панелью Ceramic Shield последнего поколения и задней – из особого текстурированного стекла с матовой поверхностью. В серии несколько вариантов смартфонов – на 1Тб, на 256Гб, а также iphone 16 pro max 512GB в черном, титановом, белом цвете и новом нежном оттенке Desert Titanium.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h41/h98/87295491702814.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h96/ha4/87295491735582.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/h3c/h66/87295491768350.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/heb/hcc/87295491801118.png?format=gallery-medium",
+                "5": "https://i.ytimg.com/vi/XyBdLR0rskA/default.jpg"
+            }
+        },
+        {
+            "id": "123890752",
+            "title": "Смартфон Apple iPhone 16 Pro Max 256Gb серебристый",
+            "price": 689005,
+            "category": "smartphone",
+            "description": "Флагманский IPhone 16 Pro Max вобрал в себя лучшие черты современного гаджета. Это самое производительное устройство в линейке Apple iPhone с масштабным дисплеем, потрясающей производительностью и невероятной внешней эргономикой. Iphone 16 pro max – настоящий титан в своем семействе. Флагманская модель с тончайшими рамками корпуса обладает эргономичным дизайном, высокой ударо- и влагозащитой. Дополнена передней панелью Ceramic Shield последнего поколения и задней – из особого текстурированного стекла с матовой поверхностью. В серии несколько вариантов смартфонов – на 1Тб, на 256Гб, а также iphone 16 pro max 512GB в черном, титановом, белом цвете и новом нежном оттенке Desert Titanium.",
+            "images": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h74/ha7/87295492882462.png?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h98/hb6/87295492915230.png?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/haa/hc9/87295492947998.png?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/h6f/hdf/87295492980766.png?format=gallery-medium",
+                "5": "https://i.ytimg.com/vi/XyBdLR0rskA/default.jpg"
+            }
+        }
+    ]
+}

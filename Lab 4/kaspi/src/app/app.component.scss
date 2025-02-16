@@ -1,0 +1,40 @@
+body {
+  background: blue;
+}
+
+main {
+  nav {
+    background-color: #fff;
+    align-items: center;
+    padding: 20px 30px;
+    div {
+      width: 90%;
+      max-width: 960px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      a {
+        display: block;
+      }
+    }
+    
+    ul {
+      display: flex;
+      gap: 30px;
+      
+      li a {
+        color: var(--accent-foreground);
+      }
+    }
+  }
+
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+}
+
+  

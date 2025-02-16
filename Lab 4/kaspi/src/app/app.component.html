@@ -1,0 +1,19 @@
+<main>
+  <nav>
+    <div>
+      <a [routerLink]="['/']">
+        <header class="brand-name">
+          <img class="brand-logo" src="/assets/logo.svg" alt="logo" aria-hidden="true" />
+        </header>
+      </a>
+      <ul>
+        <li class="nav_link"><a href="#">Клиентам</a></li>
+        <li class="nav_link"><a href="#">Бизнесу</a></li>
+        <li class="nav_link"><a href="#">Kaspi Гид</a></li>
+      </ul>
+    </div>
+  </nav>
+  <section class="content container">
+    <router-outlet></router-outlet>
+  </section>
+</main>

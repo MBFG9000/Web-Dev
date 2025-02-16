@@ -1,0 +1,60 @@
+.listing {
+    background: var(--accent-color, #f8f9fa); /* Светлый фон */
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.listing:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+}
+
+.listing-heading {
+    color: var(--primary-color, #007bff);
+    padding: 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.listing-photo {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 20px 20px 0 0;
+}
+
+.listing-location {
+    padding: 5px 0;
+    font-size: 14px;
+    color: #555;
+}
+
+.listing-location::before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("/assets/location-pin.svg") no-repeat center;
+    background-size: contain;
+    margin-right: 5px;
+}
+
+section.listing a {
+    display: block;
+    text-decoration: none;
+    color: var(--primary-color, #007bff);
+    font-weight: bold;
+    transition: color 0.2s ease-in-out;
+}
+
+section.listing a:hover {
+    color: #0056b3;
+}
+
+section.listing a::after {
+    content: "\203A";
+    margin-left: 5px;
+    font-size: 16px;
+}

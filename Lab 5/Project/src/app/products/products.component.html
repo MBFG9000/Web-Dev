@@ -1,0 +1,6 @@
+<div class="container">
+  <app-category-bar (sortByCategory)="sortProducts($event)"></app-category-bar>
+  <section class="products">
+    <app-product-item *ngFor="let Product of SortedProducts" [product]="Product" (rmProduct)="removeProduct($event)"></app-product-item>
+  </section>
+</div>

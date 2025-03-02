@@ -1,0 +1,51 @@
+.container {
+    font-family:"Oswald","Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    max-width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: rgba(0, 0, 200, 0.3);
+}
+
+.album-list {
+    font-weight: 200;
+    list-style-type: none;
+    padding: 0;
+}
+
+.album-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.album-list li:hover {
+    background-color: rgba(0, 0, 200, 0.1);
+}
+
+.album-title {
+    flex-grow: 1;
+    font-size: 1.2rem;
+}
+
+.delete-btn {
+    font-weight: bold;
+    border: 1px solid red;
+    background-color: transparent;
+    color: red;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.delete-btn:hover {
+    background-color: darkred;
+    color: white;
+    border: none;
+}

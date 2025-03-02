@@ -1,0 +1,23 @@
+<div class="album-container" *ngIf="Album">
+  
+    <!-- Заголовок альбома -->
+    <div class="album-header">
+      <h2>Album №{{ Album.id }}</h2>
+      <p class="album-user">Author ID: <span>{{ Album.userId }}</span></p>
+    </div>
+  
+    <!-- Блок информации -->
+    <div class="album-content">
+      <label for="albumTitle">Album Name: {{Album.title}}</label>
+      <input id="albumTitle" [(ngModel)]="editedTitle" placeholder="Enter the Name..." />
+    </div>
+  
+    <!-- Блок кнопок -->
+    <div class="album-actions">
+      <button class="save-btn" (click)="saveAlbum()">💾 SaveS</button>
+      <button class="return-btn" (click)="returnToAlbums()">⬅ Return</button>
+      <button class="photos-btn" (click)="goToPhotos()">📷 Photos</button>
+    </div>
+  
+  </div>
+  

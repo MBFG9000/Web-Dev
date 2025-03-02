@@ -1,0 +1,13 @@
+<div class="container">
+    <h2>Photo Album №{{ albumId }}</h2>
+  
+    <div class="photo-grid" >
+      <div *ngFor="let photo of photos" class="photo-card">
+        <img [src]="photo.url" [alt]="photo.title" />
+        <p>{{ photo.title }}</p>
+      </div>
+    </div>
+  
+    <button (click)="returnToAlbum()">Return</button>
+  </div>
+  

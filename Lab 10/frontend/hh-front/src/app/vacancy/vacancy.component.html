@@ -1,0 +1,12 @@
+<h3>Вакансии компании:</h3>
+
+<!-- Выводим список вакансий -->
+<ul>
+  <li *ngFor="let vacancy of vacancies">
+    <strong>{{ vacancy.name }}</strong> - {{ vacancy.salary }} USD
+    <p>{{ vacancy.description }}</p>
+  </li>
+</ul>
+
+<button (click)="returnto()">Go back</button>
+
